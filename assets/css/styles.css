@@ -1,0 +1,27 @@
+body{
+  background-image: url("../image/alphabetSoup.jpg");
+ /* this is so the background image doesn't repeat */
+  background-repeat: no-repeat;
+  /* resizes the image to cover the entire the entire container */
+  background-size: cover;
+  /* so the image does not scroll with the page */
+  background-attachment:fixed;
+  color:#F0FFFF;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+  
+  h1{
+  font-weight:bold ;
+  font-size: 35px;
+  padding-bottom: 20px;
+/* To center: "Guess what letter..." header */
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+  p{
+    font-weight:bold ;
+  }
+  .container{
+/* adds 30px of padding to all sides of the container */
+  padding:30px;
+  }
