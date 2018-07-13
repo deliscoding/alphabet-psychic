@@ -1,0 +1,4 @@
+added reset css and file structure
+added html structure
+designed css page
+added javascript variables functions & logic
